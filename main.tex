@@ -1,0 +1,157 @@
+% !TeX TS-program = pdflatex
+% !TeX spellcheck = en_US
+\documentclass[12pt,twoside,openright,a4paper]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=black,bookmarksopen=true]{hyperref}
+\usepackage[nomain,acronym,toc]{glossaries}
+\usepackage{imakeidx}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{anyfontsize}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{hyphenat}
+\usepackage{mathptmx}
+\usepackage{textcomp}
+\usepackage{lettrine}
+
+% for headers
+\addtopsmarks{headings}{}{
+	\createmark{chapter}{both}{nonumber}{}{}
+}
+\pagestyle{headings}
+
+
+% code for refrence
+%
+\usepackage{endnotes,etoolbox}
+\renewcommand{\notesname}{References}
+% end note marker = superscripted number in brackets
+\renewcommand\makeenmark{\textsuperscript{[\theenmark]}}
+% in the endnotes, we change it without `\textsuperscript`, adding a space
+\patchcmd{\theendnotes}
+{\makeatletter}
+{\makeatletter\renewcommand\makeenmark{[\theenmark] }}
+{}{}
+
+% code for text formatting
+%
+\tolerance=1000
+\hyphenpenalty=1000
+% \parindent=0pt
+
+% code for custom commands
+%
+\newcommand{\qs}[1]{\textquoteleft \textit{#1}\textquoteright}
+\newcommand{\qd}[1]{\textquotedblleft \textit{#1}\textquotedblright}
+\newcommand{\clb}[0]{\color{blue}}
+
+% code for index
+%
+\makeindex[
+columns=1,
+title=Index,
+options= -s styles/index.ist,
+intoc
+]
+
+
+% code for glossaries
+%
+\newglossary[default.log]{default}{in-default}{out-default}{Terms}
+\newglossary[person.log]{person}{in-person}{out-person}{Notable Persons}
+\newglossary[date.log]{date}{in-date}{out-date}{Dates}
+
+\makeglossaries
+
+\loadglsentries{TeX_gls/default}
+\loadglsentries{TeX_gls/person}
+\loadglsentries{TeX_gls/date}
+
+\begin{document}
+
+\author{Bipin Chandra}
+\title{India's Struggle for Independence}
+\date{January 2013}
+
+\frontmatter
+
+% custom title page
+\newpage
+\thispagestyle{empty}
+%\setlength{\parindent}{0pt}%
+%\setlength{\parskip}{4pt}%
+\noindent
+{\sffamily\LARGE{
+	\begin{flushleft}
+		BIPIN CHANDRA\\
+		MRIDULA MUKHERJEE\\
+		SUCHETA MAHAJAN\\
+		K.N. PANIKKAR
+	\end{flushleft}
+}\par}
+\vspace{1in}
+{\sffamily\fontsize{50}{60}\selectfont{
+	\begin{flushleft}
+			INDIA'S STRUGGLE FOR INDEPENDENCE
+	\end{flushleft}
+}\par}
+\cleardoublepage
+\tableofcontents
+
+\mainmatter
+
+\cleardoublepage
+\include{body}
+%\include{./chapters/01_38}\cleardoublepage
+%\include{./chapters/01_01}\cleardoublepage
+%\include{./chapters/01_02}\cleardoublepage
+%\include{./chapters/01_03}\cleardoublepage
+%\include{./chapters/01_04}\cleardoublepage
+%\include{./chapters/01_05}\cleardoublepage
+%\include{./chapters/01_06}\cleardoublepage
+%\include{./chapters/01_07}\cleardoublepage
+%\include{./chapters/01_08}\cleardoublepage
+%\include{./chapters/01_09}\cleardoublepage
+%\include{./chapters/01_10}\cleardoublepage
+%\include{./chapters/01_11}\cleardoublepage
+%\include{./chapters/01_12}\cleardoublepage
+%\include{./chapters/01_13}\cleardoublepage
+%\include{./chapters/01_14}\cleardoublepage
+%\include{./chapters/01_15}\cleardoublepage
+%\include{./chapters/01_16}\cleardoublepage
+%\include{./chapters/01_17}\cleardoublepage
+%\include{./chapters/01_18}\cleardoublepage
+%\include{./chapters/01_19}\cleardoublepage
+%\include{./chapters/01_20}\cleardoublepage
+%\include{./chapters/01_21}\cleardoublepage
+%\include{./chapters/01_22}\cleardoublepage
+%\include{./chapters/01_23}\cleardoublepage
+%\include{./chapters/01_24}\cleardoublepage
+%\include{./chapters/01_25}\cleardoublepage
+%\include{./chapters/01_26}\cleardoublepage
+%\include{./chapters/01_27}\cleardoublepage
+%\include{./chapters/01_28}\cleardoublepage
+%\include{./chapters/01_29}\cleardoublepage
+%\include{./chapters/01_30}\cleardoublepage
+%\include{./chapters/01_31}\cleardoublepage
+%\include{./chapters/01_32}\cleardoublepage
+%\include{./chapters/01_33}\cleardoublepage
+%\include{./chapters/01_34}\cleardoublepage
+%\include{./chapters/01_35}\cleardoublepage
+%\include{./chapters/01_36}\cleardoublepage
+%\include{./chapters/01_37}\cleardoublepage
+%\include{./chapters/01_38}\cleardoublepage
+
+\backmatter
+
+\setglossarystyle{listhypergroup}
+
+\printglossary[title=Special Terms, toctitle=List of Terms,type=default]
+\printglossary[title=Important Dates, toctitle=List of Important Dates,type=date,style=altlist]
+\printglossary[title=Notable Persons, toctitle=List of Notable Persons,type=person,style=altlist]
+
+\printindex
+\end{document}
