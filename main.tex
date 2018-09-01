@@ -67,9 +67,9 @@
 
 % code for glossaries
 %
-\newglossary[default.log]{default}{in-default}{out-default}{Terms}
-\newglossary[person.log]{person}{in-person}{out-person}{Notable Persons}
-\newglossary[date.log]{date}{in-date}{out-date}{Dates}
+\newglossary[default.log]{default}{default.in}{default.out}{Terms}
+\newglossary[person.log]{person}{person.in}{person.out}{Notable Persons}
+\newglossary[date.log]{date}{date.in}{date.out}{Dates}
 
 \makeglossaries
 
@@ -112,6 +112,7 @@
 \mainmatter
 
 \cleardoublepage
+\twocolumn
 \include{body}
 
 \backmatter
