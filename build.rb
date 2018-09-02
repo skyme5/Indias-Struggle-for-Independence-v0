@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 19:11:10
+# @Last Modified time: 2018-09-02 19:12:17
 require 'logger'
 require 'colorize'
 
@@ -349,7 +349,7 @@ end
 
 
 puts "Committing changes...".colorize(:yellow)
-out = %x{git add *}
+system("git add *", :out => File::NULL)
 system("git commit -m \"commit before build\"")
 puts "Building index".colorize(:yellow)
 system("makeindex.exe \"main\".tex")
