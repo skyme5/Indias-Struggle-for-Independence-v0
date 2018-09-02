@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 21:02:37
+# @Last Modified time: 2018-09-02 21:09:23
 require 'logger'
 require 'colorize'
 
@@ -64,7 +64,7 @@ end
 
 class Acronym
   def initialize
-    @basePath = File.expand_path(".")
+    @basePath = File.join(File.expand_path("."), "TeX_gls")
     @filePath = File.join(@basePath, "acronym.txt")
     @enable = File.exist?(@filePath)
     $logger.warn "No acronym.txt file found" if !@enable
@@ -76,8 +76,10 @@ class Acronym
     return File.open(@filePath).read.split("\n").compact.map!{
       |m|
       data = m.split("\t")
+      a = data.first
+      b = data.last
       {
-        "entry" => "\\newglossaryentry\{#{data.first}\}\{name=#{data.first}, description=\{#{data.last}\}\}",
+        "entry" => "\\newglossaryentry{#{a}}{name=\\glslink{#{a}}{#{b}},text=#{b},description={#{b}}}\\newacronym[description={\\glslink{#{a}}{#{b}}}]{#{a}}{#{a}}{#{b}}",
         "find" => data.first,
         "replace" => "\\gls\{#{data.first}\}"
       }
@@ -353,7 +355,7 @@ class GlossaryIndex
     files = Dir.entries(dir)
     files.select!{
       |file|
-      file.include? ext
+      file.include? ext and !["acronym.txt"].include? file
     }
     files.map!{
       |file|

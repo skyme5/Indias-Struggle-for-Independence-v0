@@ -3,9 +3,8 @@
 \documentclass[12pt, openright, a4paper, final]{memoir}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
-\usepackage[colorlinks=true,linkcolor=blue,urlcolor=black,bookmarksopen=true]{hyperref}
-\usepackage[nomain,acronym,toc]{glossaries}
-\usepackage{acronym}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=black, bookmarksopen=true]{hyperref}
+\usepackage[nomain, acronym, toc]{glossaries}
 \usepackage{imakeidx}
 \usepackage{graphicx}
 \usepackage[T1]{fontenc}
@@ -77,6 +76,7 @@
 \loadglsentries{TeX_gls/default}
 \loadglsentries{TeX_gls/person}
 \loadglsentries{TeX_gls/date}
+\loadglsentries{TeX_gls/acronym}
 
 \begin{document}
 
@@ -111,7 +111,6 @@
 \tableofcontents
 
 \mainmatter
-\include{acronym}
 
 \cleardoublepage
 \twocolumn
