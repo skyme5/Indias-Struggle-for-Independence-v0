@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 21:23:20
+# @Last Modified time: 2018-09-02 21:24:19
 require 'logger'
 require 'colorize'
 
@@ -81,7 +81,7 @@ class Acronym
       {
         "entry" => ["\\newglossaryentry\{default:#{a}\}\{",
                     "\ttype=default,",
-                    "\tname={#{a}},",
+                    "\tname={\\ac\{#{a}\}},",
                     "\tdescription={#{b}}",
                     "}\n"].join("\n"),
         "find" => data.first,
