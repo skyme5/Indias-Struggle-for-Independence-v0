@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 19:14:08
+# @Last Modified time: 2018-09-02 20:29:53
 require 'logger'
 require 'colorize'
 
@@ -351,10 +351,6 @@ end
 puts "Committing changes...".colorize(:yellow)
 system("git add .")
 system("git commit -m \"commit before build\"")
-puts "Building index".colorize(:yellow)
-system("makeindex.exe \"main\".tex")
-puts "Building glossaries".colorize(:yellow)
-system("makeglossaries.exe \"main\"")
 puts "Compiling Tex (1)".colorize(:yellow)
 system("pdflatex.exe -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
 puts "ReBuilding index".colorize(:yellow)
