@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 20:56:45
+# @Last Modified time: 2018-09-02 21:02:37
 require 'logger'
 require 'colorize'
 
@@ -77,9 +77,9 @@ class Acronym
       |m|
       data = m.split("\t")
       {
-        "entry" => "\\acrodef\{#{data.first}\}\[#{data.first}\]\{#{data.last}\}",
+        "entry" => "\\newglossaryentry\{#{data.first}\}\{name=#{data.first}, description=\{#{data.last}\}\}",
         "find" => data.first,
-        "replace" => "\\ac\{#{data.first}\}"
+        "replace" => "\\gls\{#{data.first}\}"
       }
     }
   end
