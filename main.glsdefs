@@ -1,0 +1,30 @@
+\ifglsentryexists{utc}{}%
+{%
+\gls@defglossaryentry{utc}%
+{%
+name={UTC},%
+sort={UTC},%
+type={default},%
+first={Coordinated Universal Time\glsspace (UTC)},%
+firstplural={Coordinated Universal Times\glsspace (UTCs)},%
+text={UTC},%
+plural={UTCs},%
+description={Coordinated Universal Time},%
+descriptionplural={Coordinated Universal Time\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Coordinated Universal Time},%
+longplural={Coordinated Universal Times},%
+short={UTC},%
+shortplural={UTCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
