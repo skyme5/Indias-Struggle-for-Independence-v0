@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 21:26:33
+# @Last Modified time: 2018-09-02 21:27:36
 require 'logger'
 require 'colorize'
 
@@ -79,7 +79,7 @@ class Acronym
       a = data.first
       b = data.last
       {
-        "entry" => ["\\acro{#{a}}[#{a}]{#{b}}",
+        "entry" => ["\\acrodef{#{a}}[#{a}]{#{b}}",
                     "\\newglossaryentry\{default:#{a}\}\{",
                     "\ttype=default,",
                     "\tname={\\ac\{#{a}\}},",
