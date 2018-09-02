@@ -22,6 +22,7 @@ Revolt	Indigo Revolt	Indigo
 Revolt	Kuka Revolt	Kuka
 Revolt	Pabna Revolt	Pabna
 Revolt	Revolt of 1857	of 1857
+Revolt	RIN Revolt
 Ryotwari system
 Sabha	Madras Mahajan Sabha	Madras Mahajan
 Sabha	Poona Sarvajanik Sabha	Poona Sarvajanik
