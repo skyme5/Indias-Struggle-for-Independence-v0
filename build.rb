@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 21:22:04
+# @Last Modified time: 2018-09-02 21:23:20
 require 'logger'
 require 'colorize'
 
@@ -79,13 +79,13 @@ class Acronym
       a = data.first
       b = data.last
       {
-        "entry" => "\\newacronym{#{a}}{#{a}}{#{b}}", #["\\newglossaryentry\{default:#{a}\}\{",
-                    # "\ttype=default,",
-                    # "\tname={#{a}},",
-                    # "\tdescription={#{b}}",
-                    # "}\n"].join("\n"),
+        "entry" => ["\\newglossaryentry\{default:#{a}\}\{",
+                    "\ttype=default,",
+                    "\tname={#{a}},",
+                    "\tdescription={#{b}}",
+                    "}\n"].join("\n"),
         "find" => data.first,
-        "replace" => "\\gls\{#{data.first}\}"
+        "replace" => "\\gls\{default:#{data.first}\}"
       }
     }
   end
