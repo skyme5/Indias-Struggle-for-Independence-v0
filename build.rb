@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 20:54:08
+# @Last Modified time: 2018-09-02 20:54:32
 require 'logger'
 require 'colorize'
 
@@ -79,7 +79,7 @@ class Acronym
       {
         "entry" => "\\acrodef\{{data.first}\}\[#{data.first}\]\{#{data.last}\}",
         "find" => data.first,
-        "replace" => "\\ac#{data.first}"
+        "replace" => "\\ac\{#{data.first}\}"
       }
     }
   end
