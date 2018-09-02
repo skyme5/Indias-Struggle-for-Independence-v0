@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 20:29:53
+# @Last Modified time: 2018-09-02 20:52:49
 require 'logger'
 require 'colorize'
 
@@ -62,6 +62,47 @@ class Index
   end
 end
 
+class Acronym
+  def initialize
+    @basePath = File.expand_path(".")
+    @filePath = File.join(@basePath, "acronym.txt")
+    @enable = File.exist?(@filePath)
+    $logger.warn "No acronym.txt file found" if !@enable
+    @list = getAcrList
+  end
+
+  def getAcrList
+    return [] if !@enable
+    return File.open(@filePath).read.split("\n").compact.map!{
+      |m|
+      data = m.split("\t")
+      {
+        "entry" => "\\acrodef{data.first}[data.first]{data.first}",
+        "find" => data.first,
+        "replace" => "\\ac#{data.first}"
+      }
+    }
+  end
+
+  def save
+    outPath = File.join(@basePath, "acronym.tex")
+    out = File.open(outPath, "w")
+    @list.each{
+      |item|
+      out.puts item["entry"]
+    }
+    out.close
+  end
+
+  def process(body)
+    return body if !@enable
+    @list.each{
+      |item|
+      body.gsub!(item["find"], item["replace"])
+    }
+  end
+end
+
 class FindDates
   def initialize(dir = false)
     @basePath = dir == false ? File.expand_path(".") : dir
@@ -72,8 +113,8 @@ class FindDates
   end
 
   def save
-  	outPath = File.join(@basePath, "TeX_gls")
-  	Dir.mkdir(outPath) if !Dir.exist?(outPath)
+    outPath = File.join(@basePath, "TeX_gls")
+    Dir.mkdir(outPath) if !Dir.exist?(outPath)
     path = File.join(outPath, "date.txt")
     if File.exist?(path)
       print "#{path} already exists, overwrite it ? (yes or no): "
@@ -284,6 +325,9 @@ class GlossaryIndex
   end
 
   def process
+    _acronym = Acronym.new
+    _acronym.save
+    _acronym.process(@filesData)
     _index = Index.new(@basePath)
     _index.process(@filesData)
     @filesGLS.each{

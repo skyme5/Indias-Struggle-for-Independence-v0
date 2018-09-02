@@ -4,7 +4,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage[colorlinks=true,linkcolor=blue,urlcolor=black,bookmarksopen=true]{hyperref}
-\usepackage[nomain,acronym,toc]{glossaries}
+\usepackage[nomain,toc]{glossaries}
+\usepackage{acronym}
 \usepackage{imakeidx}
 \usepackage{graphicx}
 \usepackage[T1]{fontenc}
@@ -110,7 +111,7 @@
 \tableofcontents
 
 \mainmatter
-\newacronym{EX}[EX]{\emph{Example}}
+\acrodef{EX}[EX]{\emph{Example}}
 \cleardoublepage
 \twocolumn
 \include{body}
