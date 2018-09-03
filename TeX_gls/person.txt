@@ -1,20 +1,22 @@
 A.C. Mazumdar
+A.O. Hume
 A.R. Desai
 Amles Tripathi
 Anand Mohan Bose
 Anil Seal
 B.B. Misra
+B.M. Malabari
 B.R.Nanda
 Baba Ram Singh
-Bahadur Shah
+Bahadur Shah	See \gls{person:BAHADUR-SHAH-II}
 Bahadur Shah II
 Baji Rao II
-Bankim Chandra Chatterjea
 Bankim Chandra Chatterjee
 Begum Hazrat Mahal
 Birjis Qadir
 Bisheshwar Prasad
 Bruce T. McCully
+C.F. Andrews
 C.F. Andrews
 Dadabhai Naoroji
 Dalhousie
@@ -22,6 +24,8 @@ Dewan Velu Thampi
 Din Bandhu Mitra
 Dwarkanath Ganguli
 Girija Mukerji
+Girija Mukherji
+Gurmukh Nihal Singh
 Harish Chandra Mukherji
 Hem Chandra Kar
 J.A. Gallagher
@@ -30,12 +34,15 @@ K.F. Nariman
 K.M. Munshi
 Khan Bahadur
 Khan Bahadur Khan
+Koot Hoomi Lal Singh
 Kunwar Singh
-Lajpat Rai
+Lajpat Rai	See \gls{person:LALA-LAHPAT-RAI}
+Lala Lajpat Rai
 Lech Walesa
 Lewis Namier
 Lokmanya Tilak
 M.R. Jayakar
+M.S. Golwalkar
 Madan Mohan Malaviya
 Mahatma Gandhi
 Man Singh
@@ -47,33 +54,23 @@ Pattabhi Sitaramayya
 Percival Spear
 R. Palme Dutt
 R.C. Dutt
+R.C. Majumdar
 R.G. Pradhan
 Raja Rammohan Roy
 Rani Lakshmibai
 Reginald Coupland
 S. Gopal
+S. Satyamurthy
 Sardar Vallabhbhai Patel
 Satyamurthy
 Simon Fraser
 Subhas Chandra Bose
-Surendranath Banerjea
 Surendranath Banerjee
 T.R. Holmes
 Tantia Tope
+Tara Chand
 V. Chirol
 Vasudev Balwant Phadke
 Velu Thampi
-William Edwards
-A.O. Hume
-Lala Lajpat Rai
-R. Palme Dutt
-M.S. Golwalkar
-C.F. Andrews
-Girija Mukherji
-Lajpat Rai
-Gurmukh Nihal Singh
-R.C. Majumdar
-Tara Chand
-Koot Hoomi Lal Singh
 W.C. Bannerjee
-B.M. Malabari
+William Edwards
