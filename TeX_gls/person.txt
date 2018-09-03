@@ -37,7 +37,7 @@ Khan Bahadur Khan
 Koot Hoomi Lal Singh
 Kunwar Singh
 Lala Lajpat Rai
-Lajpat Rai	see \gls{person:LALA-LAHPAT-RAI}
+Lajpat Rai	see \gls{person:LALA-LAJPAT-RAI}
 Lech Walesa
 Lewis Namier
 Lokmanya Tilak
