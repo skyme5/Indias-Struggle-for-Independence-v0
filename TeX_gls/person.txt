@@ -6,10 +6,10 @@ Anand Mohan Bose
 Anil Seal
 B.B. Misra
 B.M. Malabari
-B.R.Nanda
+B.R. Nanda
 Baba Ram Singh
 Bahadur Shah II
-Bahadur Shah	See \gls{person:BAHADUR-SHAH-II}
+Bahadur Shah	see \gls{person:BAHADUR-SHAH-II}
 Baji Rao II
 Bankim Chandra Chatterjee
 Begum Hazrat Mahal
@@ -36,7 +36,7 @@ Khan Bahadur
 Khan Bahadur Khan
 Koot Hoomi Lal Singh
 Kunwar Singh
-Lajpat Rai	See \gls{person:LALA-LAHPAT-RAI}
+Lajpat Rai	see \gls{person:LALA-LAHPAT-RAI}
 Lala Lajpat Rai
 Lech Walesa
 Lewis Namier
@@ -60,9 +60,9 @@ Raja Rammohan Roy
 Rani Lakshmibai
 Reginald Coupland
 S. Gopal
-S. Satyamurthy
+S. Satyamurti
 Sardar Vallabhbhai Patel
-Satyamurthy
+Sardar Patel	see \gls{person:SARDAR-VALLABHBHAI-PATEL}
 Simon Fraser
 Subhas Chandra Bose
 Surendranath Banerjee
