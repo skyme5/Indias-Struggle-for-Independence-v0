@@ -8,8 +8,8 @@ B.B. Misra
 B.M. Malabari
 B.R.Nanda
 Baba Ram Singh
-Bahadur Shah	See \gls{person:BAHADUR-SHAH-II}
 Bahadur Shah II
+Bahadur Shah	See \gls{person:BAHADUR-SHAH-II}
 Baji Rao II
 Bankim Chandra Chatterjee
 Begum Hazrat Mahal
