@@ -1,13 +1,33 @@
 Act	Bengal Tenancy Act	Bengal Tenancy
+Act	Vernacular Press Act	Vernacular Press
+Act	Anti-Corn Law	Anti-Corn
+Act	Lex Loci Act	Lex Loci
+Act	Indian Councils Act	Indian Councils
 adult franchise
 Bill	Public Safety Bill	Public Safety
 Bill	Trade Disputes Bill	Trade Disputes
+Bill	Ilbert Bill	Ilbert
+salt tax
 Bombay Presidency Association
 hoary perennial theory
 holocaust
 Honorary Magistrates
 Indian National Congress
 Mountbatten Settlement
+Tattvabodhini Sabha
+Movement	Brahmo Samaj
+Movement	Paramahansa Mandali
+Movement	Prarthana Samaj
+Movement	Arya Samaj
+Movement	Aligarh Movement	Aligarh
+Movement	Kayasth Sabha
+Movement	Sarin Sabba
+Movement	Satya Sodhak Samaj
+Movement	Sri Narayana Dharma Paripalana Sabha
+Movement	Singh Sabha
+Rehnumai Mazdeyasan Sabha
+Bankim Chandra Chatterjee
+Vivekananda
 Movement	Solidarity Movement	Solidarity
 Neel Darpan
 Person	George Hamilton
@@ -33,4 +53,12 @@ Uprising	Santhal hool
 Viceroy	Curzon
 Viceroy	Dufferin
 Viceroy	Minto
+Lord Ripon
+Lord Curzon
 War	American Civil War	American
+War	Afghan War	Second Afghan
+Indian Mirror
+Indian Association
+Bombay Presidency Association
+All-India National Conference
+

@@ -1,5 +1,6 @@
 A.C. Mazumdar
 A.O. Hume
+Antonio Gramsci
 A.R. Desai
 Amles Tripathi
 Anand Mohan Bose
@@ -19,12 +20,23 @@ Bruce T. McCully
 C.F. Andrews
 C.F. Andrews
 Dadabhai Naoroji
+D.E. Wacha
 Dalhousie
 Dewan Velu Thampi
 Din Bandhu Mitra
 Dwarkanath Ganguli
 Girija Mukerji
 Girija Mukherji
+G.K. Gokhale
+Surendranath Banerjee
+Anand Mohan Bose
+M. Viraraghavachariar
+G. Subramaniya Iyer
+P. Ananda Charlu
+K.T. Telang
+Dadabhai Framji
+Dinshaw Petit
+Pherozeshah Mehta
 Gurmukh Nihal Singh
 Harish Chandra Mukherji
 Hem Chandra Kar
@@ -57,10 +69,40 @@ R.C. Dutt
 R.C. Majumdar
 R.G. Pradhan
 Raja Rammohan Roy
+P. Ananda Charlu
 Rani Lakshmibai
+Akshay Kumar Dutt
+Mahadev Govind Ranade
+Ishwarchandra Vidyasagar
 Reginald Coupland
 S. Gopal
 S. Satyamurti
+Syed Ahmed Khan
+Gopal Han Deshmukh
+Keshub Chandra Sen
+Jyotiba Phule
+Narayana Guru
+Mahadev Govind Ranade
+Romesh Chandra Dutt
+G.V. Joshi
+G. Subramaniya lyer
+G.K. Gokhale
+Prithwis Chandra Ray
+Bipin Chandra Pal
+P. Ananda Charlu
+Sachidanand Sinha
+Sisir Kumar Ghosh and Motilal Ghosh
+N.N. Sen
+G.P. Varma
+Motilal Ghosh
+Asutosh Mukherjea
+Bal Gangadhar Tilak
+G. Subramaniya Iyer
+B.G. Tilak
+Surendranath Banerjee
+Sisir Kumar Ghosh
+Motilal Ghosh
+G.P. Varma
 Sardar Vallabhbhai Patel
 Sardar Patel	see \gls{person:SARDAR-VALLABHBHAI-PATEL}
 Simon Fraser
