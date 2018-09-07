@@ -49,7 +49,7 @@
 
 % code for text formatting
 %
-\emergencystretch=30pt
+\emergencystretch=25pt
 % \hyphenpenalty=10000
 % \parindent=0pt
 
@@ -123,13 +123,19 @@
 
 \cleardoublepage
 
+\begin{multicols}{2}
 \include{body}
+\end{multicols}
 
 \backmatter
 
 \setglossarystyle{listhypergroup}
+\begin{multicols}{2}
 \printglossary[title=Special Terms, toctitle=List of Terms,type=default]
+\end{multicols}
+\begin{multicols}{2}
 \printglossary[title=Important Dates, toctitle=List of Important Dates,type=date,style=altlist]
+\end{multicols}
 \printglossary[title=Notable Persons, toctitle=List of Notable Persons,type=person,style=altlist]
 
 \printindex
