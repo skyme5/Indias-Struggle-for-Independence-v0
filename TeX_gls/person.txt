@@ -1,118 +1,163 @@
-A.C. Mazumdar
-A.O. Hume
-Antonio Gramsci
-A.R. Desai
-Amles Tripathi
-Anand Mohan Bose
-Anil Seal
-B.B. Misra
-B.M. Malabari
-B.R. Nanda
-Baba Ram Singh
-Bahadur Shah II
-Bahadur Shah	see \gls{person:BAHADUR-SHAH-II}
-Baji Rao II
-Bankim Chandra Chatterjee
-Begum Hazrat Mahal
-Birjis Qadir
-Bisheshwar Prasad
-Bruce T. McCully
-C.F. Andrews
-C.F. Andrews
-Dadabhai Naoroji
-D.E. Wacha
-Dalhousie
-Dewan Velu Thampi
-Din Bandhu Mitra
-Dwarkanath Ganguli
-Girija Mukerji
-Girija Mukherji
-G.K. Gokhale
-Surendranath Banerjee
-Anand Mohan Bose
-M. Viraraghavachariar
-G. Subramaniya Iyer
-P. Ananda Charlu
-K.T. Telang
-Dadabhai Framji
-Dinshaw Petit
-Pherozeshah Mehta
-Gurmukh Nihal Singh
-Harish Chandra Mukherji
-Hem Chandra Kar
-J.A. Gallagher
-Jawaharlal Nehru
-K.F. Nariman
-K.M. Munshi
-Khan Bahadur
-Khan Bahadur Khan
-Koot Hoomi Lal Singh
-Kunwar Singh
-Lala Lajpat Rai
-Lajpat Rai	see \gls{person:LALA-LAJPAT-RAI}
-Lech Walesa
-Lewis Namier
-Lokmanya Tilak
-M.R. Jayakar
-M.S. Golwalkar
-Madan Mohan Malaviya
-Mahatma Gandhi
-Man Singh
-Mangal Pande
-Maulvi Ahmad Shah
-Motilal Nehru
-Nana Saheb
-Pattabhi Sitaramayya
-Percival Spear
-R. Palme Dutt
-R.C. Dutt
-R.C. Majumdar
-R.G. Pradhan
-Raja Rammohan Roy
-P. Ananda Charlu
-Rani Lakshmibai
-Akshay Kumar Dutt
-Mahadev Govind Ranade
-Ishwarchandra Vidyasagar
-Reginald Coupland
-S. Gopal
-S. Satyamurti
+William Edwards
+W.C. Bonnerji
+W.C. Bannerjee
+Vivekananda
+Vijayaraghavachariar
+Velu Thampi
+Vasudev Balwant Phadke
+V.N. Mandlik
+V.D. Savarkar
+V.D. Sarvarkar
+V. Chirol
+Tara Chand
+Tantia Tope
+T.R. Holmes
 Syed Ahmed Khan
-Gopal Han Deshmukh
-Keshub Chandra Sen
-Jyotiba Phule
-Narayana Guru
-Mahadev Govind Ranade
-Romesh Chandra Dutt
-G.V. Joshi
-G. Subramaniya lyer
-G.K. Gokhale
-Prithwis Chandra Ray
-Bipin Chandra Pal
-P. Ananda Charlu
-Sachidanand Sinha
-Sisir Kumar Ghosh and Motilal Ghosh
-N.N. Sen
-G.P. Varma
-Motilal Ghosh
-Asutosh Mukherjea
-Bal Gangadhar Tilak
-G. Subramaniya Iyer
-B.G. Tilak
+Syed Abu Mohammed
 Surendranath Banerjee
+Subhas Chandra Bose
 Sisir Kumar Ghosh
-Motilal Ghosh
-G.P. Varma
+Simon Fraser
+Shyamji Krishnavarma
 Sardar Vallabhbhai Patel
 Sardar Patel	see \gls{person:SARDAR-VALLABHBHAI-PATEL}
-Simon Fraser
-Subhas Chandra Bose
-Surendranath Banerjee
-T.R. Holmes
-Tantia Tope
-Tara Chand
-V. Chirol
-Vasudev Balwant Phadke
-Velu Thampi
-W.C. Bannerjee
-William Edwards
+Sachin Sanyal
+Sachidanand Sinha
+S. Satyamurti
+S. Gopal
+Romesh Chandra Dutt
+Reginald Coupland
+Rash Behari Ghosh
+Rash Behari Ghose
+Rash Behari Bose
+Rash Beha Ghosh
+Rani Lakshmibai
+Rajani Kanta Sen
+Raja Rammohan Roy
+Raja Dig Vijay Singh
+Rabindranath Tagore
+R.M. Sayani
+R.G. Pradhan
+R.C. Majumdar
+R.C. Dutt
+R. Palme Dutt
+Prithwishchandra Ray
+Prithwis Chandra Ray
+Prafulla Chandra Ray
+Prafulla Chaki
+Pherozeshah Mehta
+Percival Spear
+Pattabhi Sitaramayya
+P.C. Ray
+P. Ananda Charlu
+Nawab Salimullah
+Narayana Guru
+Nandalal Bose
+Nana Saheb
+N.N. Sen
+N.G. Chandravarkar
+Mukunda Das
+Motilal Nehru
+Motilal Ghosh
+Maulvi Ahmad Shah
+Mangal Pande
+Man Singh
+Mahatma Gandhi
+Mahadev Govind Ranade
+Madan Mohan Malaviya
+Madame Cama and Ajit Singh
+M.S. Golwalkar
+M.R. Jayakar
+M. Viraraghavachariar
+Lokmanya Tilak
+Lewis Namier
+Lech Walesa
+Lala Lajpat Rai
+Lal Mohan Ghosh
+Lajpat Rai	see \gls{person:LALA-LAJPAT-RAI}
+Kunwar Singh
+Kristodas Pal
+Krishna Kumar Mitra
+Koot Hoomi Lal Singh
+Khudiram Bose
+Khan Bahadur Khan
+Khan Bahadur
+Keshub Chandra Sen
+Kalicharan Banerjee
+K.T. Telang
+K.M. Munshi
+K.L. Nulkar
+K.F. Nariman
+Jyotiba Phule
+Jotendra Mohan Tagore
+Jawaharlal Nehru
+James Westland
+Jagdish Chandra Bose
+J.A. Gallagher
+Ishwarchandra Vidyasagar
+Hem Chandra Kar
+Harish Chandra Mukherji
+Harisarvottam Rao
+Har Dayal
+H.A. Wadya
+Gurmukh Nihal Singh
+Gopal Krishna Gokhale
+Gopal Han Deshmukh
+Girija Mukherji
+Girija Mukerji
+G.V. Joshi
+G.P. Varma
+G.M. Chitnavis
+G.K. Gokhale
+G. Subramaniya lyer
+G. Subramaniya Iyer
+Edward Law
+Dwijendralal Ray
+Dwarkanath Ganguli
+Durga Charan Lah
+Dinshaw Petit
+Din Bandhu Mitra
+Dewan Velu Thampi
+Dalhousie
+Dadabhai Naoroji
+Dadabhai Framji
+D.E. Wacha
+Chimanlal Setalvad
+Chidambaram Pillai
+Charles Wood
+C.F. Andrews
+C. Sankan Nair
+Bruce T. McCully
+Bisheshwar Prasad
+Bishambar Nath
+Birjis Qadir
+Bipin Chandra Pal
+Begum Hazrat Mahal
+Bankim Chandra Chatterjee
+Bal Gangadhar Tilak
+Baji Rao II
+Bahadur Shah II
+Bahadur Shah	see \gls{person:BAHADUR-SHAH-II}
+Baba Ram Singh
+B.R. Nanda
+B.M. Malabari
+B.G. Tilak
+B.C. Pal
+B.B. Misra
+Ayodhyanath
+Aurobindo Ghosh
+Asutosh Mukherjea
+Ashwini Kumar Dutt
+Antonio Gramsci
+Anil Seal
+Anandamohan Bose
+Ananda Mohan Bose
+Ananda Charlu
+Anand Mohan Bose
+Amles Tripathi
+Akshay Kumar Dutt
+Ajit Singh
+Abanindranath Tagore
+A.R. Desai
+A.O. Hume
+A.C. Mazumdar
