@@ -5,6 +5,7 @@
 \usepackage[english]{babel}
 \usepackage[colorlinks=true, linkcolor=blue, urlcolor=black, bookmarksopen=true]{hyperref}
 \usepackage[nomain, acronym, toc]{glossaries}
+\usepackage{glossary-mcols}
 \usepackage{acronym}
 \usepackage{imakeidx}
 \usepackage{graphicx}
@@ -128,12 +129,9 @@
 \backmatter
 
 \setglossarystyle{listhypergroup}
-\begin{multicols}{2}
-\printglossary[title=Special Terms, toctitle=List of Terms,type=default]
-\end{multicols}
-\begin{multicols}{2}
-\printglossary[title=Important Dates, toctitle=List of Important Dates,type=date,style=altlist]
-\end{multicols}
+
+\printglossary[style=mcolindex, title=Special Terms, toctitle=List of Terms,type=default]
+\printglossary[style=mcolindex, title=Important Dates, toctitle=List of Important Dates,type=date,style=altlist]
 \printglossary[title=Notable Persons, toctitle=List of Notable Persons,type=person,style=altlist]
 
 \printindex
