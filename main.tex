@@ -20,6 +20,12 @@
 \usepackage{multicol}
 \setlength{\columnsep}{1cm}
 
+\newcommand{\multicolinterrupt}[1]{% Stuff to span both rows
+\end{multicols}
+#1
+\begin{multicols}{2}
+}
+
 % for headers
 \addtopsmarks{headings}{}{
 	\createmark{chapter}{both}{nonumber}{}{}
