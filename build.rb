@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-02 21:27:36
+# @Last Modified time: 2018-09-18 14:51:41
 require 'logger'
 require 'colorize'
 
@@ -83,7 +83,8 @@ class Acronym
                     "\\newglossaryentry\{default:#{a}\}\{",
                     "\ttype=default,",
                     "\tname={\\ac\{#{a}\}},",
-                    "\tdescription={#{b}}",
+                    "\tdescription={#{b}},",
+                    "\tsort={#{a}}",
                     "}\n"].join("\n"),
         "find" => data.first,
         "replace" => "\\gls\{default:#{data.first}\}"
@@ -234,7 +235,7 @@ class GlossaryItems
        "\ttype=#{@type},",
        "\tname={#{entry["name"]}},",
        "\tdescription={#{entry["content"]}},",
-			 "\tsort={#{entry["name"]}},",
+			 "\tsort={#{entry["label"]}},",
        "}\n"].join("\n")
     }
   end

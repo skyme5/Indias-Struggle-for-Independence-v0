@@ -4,6 +4,7 @@
 *.acr
 *.alg
 *.aux
+*.bak
 *.bat
 *.date
 *.default
