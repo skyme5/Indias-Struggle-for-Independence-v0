@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-18 14:51:41
+# @Last Modified time: 2018-09-18 14:54:31
 require 'logger'
 require 'colorize'
 
@@ -235,7 +235,7 @@ class GlossaryItems
        "\ttype=#{@type},",
        "\tname={#{entry["name"]}},",
        "\tdescription={#{entry["content"]}},",
-			 "\tsort={#{entry["label"]}},",
+			 "\tsort={#{entry["sort"]}},",
        "}\n"].join("\n")
     }
   end
@@ -294,6 +294,7 @@ class GlossaryItems
       label = @glsID + find.upcase.gsub(/\W/,'-').gsub(/\-+/,'-')
       {
         "label" => label,
+        "sort" => find.upcase.gsub(/\W/,'-').gsub(/\-+/,'-'),
         "type" => @type,
         "name" => parseIfDate(title),
         "content" => content,
