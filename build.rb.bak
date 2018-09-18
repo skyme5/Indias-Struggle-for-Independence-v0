@@ -234,7 +234,7 @@ class GlossaryItems
        "\ttype=#{@type},",
        "\tname={#{entry["name"]}},",
        "\tdescription={#{entry["content"]}},",
-			 "\tsort={#{entry["name"]}},",
+			 "\tdescription={#{entry["name"]}},",
        "}\n"].join("\n")
     }
   end
