@@ -1,2 +1,5 @@
-RIN	Royal Indian Navy
+AICC	All Indian Congress Committee
+AIML	All India Muslim League
 GOI	Government of India
+INC	Indian National Congress
+RIN	Royal Indian Navy

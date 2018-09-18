@@ -6,36 +6,55 @@ Act	Lex Loci Act	Lex Loci
 Act	Police Act	Police
 Act	Vernacular Press Act	Vernacular Press
 adult franchise
-All India Muslim League
-All-India National Conference
 Amar Sonar Bangla
 Anushilan Samity
 arbitrtj011
 Bande Mataram
+Bharat Mata
 Bill	Ilbert Bill	Ilbert
 Bill	Indian Councils Bill	Indian Council
 Bill	Public Safety Bill	Public Safety
+Bill	Rowlatt Bill	Rowlatt
 Bill	Trade Disputes Bill	Trade Disputes
 Bombay Presidency Association
 Boycott Resolution
+Committee	Hunter Committee	Hunter
+Committee	Khilafat Committee	Khilafat
+Conference	All-India National Conference	All-India National
+Congress Volunteer Corps
+Elphinstone Mill
+General	General Dyer	Dyer
+Ghadar di Goonj
 hoary perennial theory
 holocaust
 Honorary Magistrates
 Indian Association
+Indian Congress	Indian National Congress	National
+Indian Congress	Natal Indian Congress	Natal
 Indian Mirror
-Indian National Congress
+Jallianwala Bagh
 Jugantar
+Khalsa Diwan Society
+King Edward's Hotel
+Komagata Maru
+Leagues	All India Muslim League	AIML
+Leagues	Home Rule League	Home Rule
 Mountbatten Settlement
 Movement	Aligarh Movement	Aligarh
 Movement	Arya Samaj
+Movement	Boycott Movement	Boycott
 Movement	Brahmo Samaj
+Movement	civil disobedience
+Movement	Eka movement	Ekta
+Movement	no-tax movement	no-tax
 Movement	Paramahansa Mandali
 Movement	Prarthana Samaj
 Movement	Sarin Sabba
 Movement	Satya Sodhak Samaj
 Movement	Solidarity Movement	Solidarity
-Movement	Boycott Movement	Boycott
+Movement	Swadeshi Movement Swadeshi
 Neel Darpan
+Pact	Lucknow Pact	Lucknow
 Person	George Hamilton
 Person	Hugh Rose
 Person	J.B. Grant
@@ -60,20 +79,28 @@ Sabha	Sri Narayana Dharma Paripalana Sabha	Narayana Dharma Paripalana
 Sabha	Tattvabodhini Sabha	Tattvabodhini
 safety-valve theory
 salt tax
+Samiti	Barisal Samiti	Barisal
+Samiti	Swadesh Bandhab Samiti	Swadesh Bandhab
+Satyagraha Champaran
 Secretory of State	George Hamilton
 Secretory of State	John Morley
 Session	Banaras Session	Banaras
-Session	Calcutta Session
-Session	Surat Session
-Samiti	Swadesh Bandhab Samiti	Swadesh Bandhab
-Samiti	Barisal Samiti	Barisal
+Session	Calcutta Session	Calcutta
+Session	Surat Session	Surat
+Silchs
 Swadeshi dacoities
+The Ghadar
+tinkathia syste
+Treaty	Treaty of Sevres	of Servres
 Uprising	Chuar
 Uprising	Santhal hool
 Viceroy	Lord Curzon	Curzon
 Viceroy	Lord Dufferin	Dufferin
 Viceroy	Lord Hardinge	Hardinge
 Viceroy	Lord Minto	Minto
+Viceroy	Lord Reading	Reading
 Viceroy	Lord Ripon	Ripon
+Volunteer Corps
 War	Afghan War	Second Afghan
 War	American Civil War	American
+Yugantar Circular

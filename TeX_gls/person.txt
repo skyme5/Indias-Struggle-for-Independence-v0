@@ -1,38 +1,60 @@
 William Edwards
 W.C. Bannerjee
 Vivekananda
+Vishnu Ganesh Pingley
 Vijayaraghavachariar
 Velu Thampi
 Vasudev Balwant Phadke
+Vallabhbhai Patel
 V.N. Mandlik
 V.D. Savarkar
+V.B. Alur
 V. Chirol
+Umar Shobhani
+Tolstoy Farm
+Tarak Nath Das	an Indian student, and one of the first leaders of the Indian community in North America to start a paper called ``Free Hindustan''
 Tara Chand
 Tantia Tope
 T.R. Holmes
+T. Prakasam
 Syed Ahmed Khan
 Syed Abu Mohammed
 Surendranath Banerjee
+Sufi Amba Prasad
 Subhas Chandra Bose
+Subhas Bose
+Sri Aurobjndo
+Sohan Singh Bhakna
+Sohan Lal Pathak
 Sisir Kumar Ghosh
 Simon Fraser
-Shyamji Krishnavarma
+Shyamji Krishna Varma
+Shankerlal Banker
+Savarkar
 Sardar Vallabhbhai Patel
 Sardar Patel	see \gls{person:SARDAR-VALLABHBHAI-PATEL}
+Saifuddin Kitchlew
+Sachindranath Sanyal
 Sachin Sanyal
 Sachidanand Sinha
 S. Satyamurti
 S. Gopal
 Romesh Chandra Dutt
 Reginald Coupland
+Ratan Tata	donted 50000 Rs to Gandhiji for movement in Africa.
 Rash Behari Ghosh
-Peary Mohan Mukherje
 Rash Behari Bose
 Rash Beha Ghosh
 Rani Lakshmibai
+Ramnath Purl
+Ram Chandra
+Rajendra Prasad
 Rajani Kanta Sen
 Raja Rammohan Roy
+Raja Mahendra Pratap
 Raja Dig Vijay Singh
+Raj Kumar Shukla	a local man, decided to follow Gandhiji all over the country to persuade him to come to Champaran to investigate the problem.
+Raghubar Dayal Girta
 Rabindranath Tagore
 R.M. Sayani
 R.G. Pradhan
@@ -42,12 +64,15 @@ R. Palme Dutt
 Prithwi Chandra Ray
 Prafulla Chandra Ray
 Prafulla Chaki
+Prabhudas Gandhi
 Pherozeshah Mehta
 Percival Spear
+Peary Mohan Mukherje
 Pattabhi Sitaramayya
 P.C. Ray
 P. Ananda Charlu
 Nawab Salimullah
+Narhari Parikh
 Narayana Guru
 Nandalal Bose
 Nana Saheb
@@ -56,30 +81,41 @@ N.G. Chandravarkar
 Mukunda Das
 Motilal Nehru
 Motilal Ghosh
+Mohandas Karamchand Gandhi
+Mohammed Barkatullah
 Maulvi Ahmad Shah
 Mangal Pande
 Man Singh
 Mahatma Gandhi
 Mahadev Govind Ranade
+Mahadev Desai
 Madan Mohan Malaviya
-Madame Cama and Ajit Singh
+Madame Cama
+Ajit Singh
+Madame Cama
 M.S. Golwalkar
 M.R. Jayakar
 M. Viraraghavachariar
 Lokmanya Tilak
+Lokamanya Tilak
 Lewis Namier
 Lech Walesa
 Lala Lajpat Rai
+Lala Har Dayal
 Lal Mohan Ghosh
 Lajpat Rai	see \gls{person:LALA-LAJPAT-RAI}
 Kunwar Singh
 Kristodas Pal
 Krishna Kumar Mitra
 Koot Hoomi Lal Singh
-Khudiram Bose
+Khudiram Bose	Review this to Khudi Ram Bose
+Khudi Ram Bose
 Khan Bahadur Khan
 Khan Bahadur
 Keshub Chandra Sen
+Kasturba
+Kartar Singh Sarabha
+Kanhia Lal Dutt
 Kalicharan Banerjee
 K.T. Telang
 K.M. Munshi
@@ -88,10 +124,15 @@ K.F. Nariman
 Jyotiba Phule
 Jotendra Mohan Tagore
 Jawaharlal Nehru
+Jamnadas Dwarkadas
 James Westland
 Jagdish Chandra Bose
+J.M. Sengupta
+J.B. Kripalani
 J.A. Gallagher
 Ishwarchandra Vidyasagar
+Indulal Yagnik
+Husain Rahim
 Hem Chandra Kar
 Harish Chandra Mukherji
 Harisarvottam Rao
@@ -101,12 +142,12 @@ Gurmukh Nihal Singh
 Gopal Krishna Gokhale
 Gopal Han Deshmukh
 Girija Mukherji
-Girija Mukerji
+General Smuts
 G.V. Joshi
 G.P. Varma
 G.M. Chitnavis
 G.K. Gokhale
-G. Subramaniya lyer
+G.D. Kumar
 G. Subramaniya Iyer
 Edward Law
 Dwijendralal Ray
@@ -115,24 +156,34 @@ Durga Charan Lah
 Dinshaw Petit
 Din Bandhu Mitra
 Dewan Velu Thampi
-Dalhousie
+Lord Dalhousie
 Dadabhai Naoroji
 Dadabhai Framji
+Dada Abdullah
 D.E. Wacha
 Chimanlal Setalvad
 Chidambaram Pillai
 Charles Wood
+C.R. Das
 C.F. Andrews
 C. Sankan Nair
+C. Rajagopalachari
 Bruce T. McCully
+Brij Kishore
 Bisheshwar Prasad
 Bishambar Nath
 Birjis Qadir
 Bipin Chandra Pal
+Bhai Parmanand
+Bhagwan Singh	Sikh Priest from Hong Kong
 Begum Hazrat Mahal
+Basanti Debi	Wife of C.R. Das
+Barkatullah
 Bankim Chandra Chatterjee
+Balwant Singh
 Bal Gangadhar Tilak
 Baji Rao II
+Baikatullah
 Bahadur Shah II
 Bahadur Shah	see \gls{person:BAHADUR-SHAH-II}
 Baba Ram Singh
@@ -142,16 +193,21 @@ B.G. Tilak
 B.C. Pal
 B.B. Misra
 Ayodhyanath
-Aurobindo Ghosh
+Aurobindo Ghose
 Asutosh Mukherjea
 Ashwini Kumar Dutt
+Asaf Ali
 Antonio Gramsci
+Annie Besant
 Anil Seal
-Anandamohan Bose
+and Harnam Singh
+Anasuya Behn
 Ananda Mohan Bose
 Ananda Charlu
 Anand Mohan Bose
 Amles Tripathi
+Ambika Charan Mazumdar
+Ambalal Sarabhai	one of the leading mill owners of the town, was a friend of Gandhiji, and had just saved the Sabarmati Ashram from extinction by a generous donation.
 Akshay Kumar Dutt
 Ajit Singh
 Abanindranath Tagore
