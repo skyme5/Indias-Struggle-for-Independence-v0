@@ -1,5 +1,13 @@
 AICC	All Indian Congress Committee
 AIML	All India Muslim League
+AITUC	All India Trade Union Congress
+CPI	CPI
+GIP	Great Indian Peninsular
 GOI	Government of India
+INA	Indian National Alliance
 INC	Indian National Congress
+KPCC	Kerala Provincial Congress Committee
 RIN	Royal Indian Navy
+SGPC	Shiromani Gurdwara Prabhandak Committee
+TLA	Textile Labour Association
+WPP	Workers' and Peasants' Parties

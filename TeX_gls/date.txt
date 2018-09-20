@@ -15,6 +15,7 @@
 1879-04-00
 1885-11-28
 1885-12-00
+1886-00-00	INC Second Session
 1900-02-00
 1902-03-26	Gopal Krishna Gokhale's first budget speech
 1905-07-19	GOI announces partition of Bengal
@@ -30,7 +31,10 @@
 1917-07-28	AICC Meeting
 1917-08-20	Montague Announces, ``The policy of His Majesty's Government ... is that of the increasing association of Indians in every branch of the administration and the gradual development of self-governing institutions, with a view to the progressive realization of responsible government in India as an integral part of the British Empire.''
 1917-11-00	Annual session of the Congress (Annie Besant Elected as President on INC)
+1918-11-00	AICC Annual Session
 1919-04-00	Gandhi calls for Satyagraha to protest against `Rowlatt Act'
+1919-11-00	AICC Annual Session
+1920-04-00	Malabar District Congress Conference held at Manjeri
 1920-05-00	AICC Meeting
 1920-06-09	Khilafat Committee at Allahabad unanimously accepted the suggestion of non-cooperation and asked Gandhiji to lead the movement.
 1920-08-01	Lokamanya Tilak passed away, Former launch date of Khilafat Movement
@@ -38,5 +42,17 @@
 1920-12-00	AICC Annual Session at Nagpur
 1921-04-00	AICC Annual Session at Vijayawada
 1921-07-08	All India Khilafat Conference
+1921-08-20	E.F. Thomas raided the mosque at Tirurangadi to arrest Ali Musaliar, the police opened fire on the unarmed crowd and many were killed
 1921-12-00	AICC Annual Session at Ahmedabad
+1922-00-00	see \gls{date:1922-12-00}
 1922-02-12	Bardoli Resolution of Congress Working Committee, End of Non-Cooperation Movement
+1922-12-00	INC Annual Session at Gaya
+1923-09-00	INC Special Session at Delhi
+1924-02-05	Gandhiji released from Jail
+1925-06-16	C.R. Das died
+1925-11-01	All-Kerala Temple Entry Day
+1926-07-00	Bardoli Inquiry Committee Report
+1927-11-00	Boycott of Simon Commission by AITUC
+1928-08-02	Gandhiji shifted to Bardoli to take place of Sardar if he gets arrested
+1939-09-03	World War II
+1942-08-00	Quit India Movement launched by Gandhiji
