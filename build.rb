@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-18 14:54:31
+# @Last Modified time: 2018-09-20 13:24:25
 require 'logger'
 require 'colorize'
 
@@ -235,7 +235,7 @@ class GlossaryItems
        "\ttype=#{@type},",
        "\tname={#{entry["name"]}},",
        "\tdescription={#{entry["content"]}},",
-			 "\tsort={#{entry["sort"]}},",
+			 "\tsort={#{entry["sort"]}}",
        "}\n"].join("\n")
     }
   end
