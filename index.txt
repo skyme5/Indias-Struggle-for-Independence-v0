@@ -1,24 +1,27 @@
 Abhinav Bharat
 Act	Anti-Corn Law	Anti-Corn
 Act	Bengal Tenancy Act	Bengal Tenancy
+Act	Criminal Law Amendment Act	Criminal
 Act	Factories Act	Factories
 Act	Indian Councils Act	Indian Councils
+Act	Industrial Disputes Act	Industrial Disputes
 Act	Lex Loci Act	Lex Loci
 Act	Oudh Rent (Amendment) Act	Oudh Rent
 Act	Police Act	Police
-Act	Public Safety Act
-Act	Reform Act of 1919
+Act	Public Safety Act	Public Safety
+Act	Reform Act	of 1919
+Act	Salt Act	Salt
 Act	Seditious Meetings Act	Seditious Meetings
 Act	Trade Disputes Acts
 Act	Vernacular Press Act	Vernacular Press
 adult franchise
+Agrarian legislation
 Akali Dal
 Amar Sonar Bangla
 Anushilan Samity
 arbitrtj011
 avarnas
 Bande Mataram
-Bardoli Inquiry Committee
 Bardoli Satyagraha Patrika
 Baroda
 Bharat Mata
@@ -27,40 +30,56 @@ Bill	Indian Councils Bill	Indian Council
 Bill	Public Safety Bill	Public Safety
 Bill	Rowlatt Bill	Rowlatt
 Bill	Trade Disputes Bill	Trade Disputes
+Bolshevik Party
 Bombay Presidency Association
 Boycott Resolution
+cat army
+Committee	Bardoli Inquiry Committee	Bardoli Inquiry
 Committee	Hunter Committee	Hunter
 Committee	Khilafat Committee	Khilafat
+Committee	Labour Enquiry Committee	Labour Enquiry
+Committee	National Planning Committee	National Planning
+Committee	Textile Enquiry Committee	Textile Enquiry
+Communist Party
 Conference	All-India National Conference	All-India National
+Congress	Indian National Congress	National
+Congress	Natal Indian Congress	Natal
 Congress Volunteer Corps
 crescendo
+Cunningham circular
+Delhi manifesto
 Elphinstone Mill
 Forced conversions
+Fourteen Points
 General	General Dyer	Dyer
 Ghadar di Goonj
+Go Back Simon
 Governor	Governor Wilson
 hoary perennial theory
 holocaust
 Honorary Magistrates
 Indian Association
-Indian Congress	Indian National Congress	National
-Indian Congress	Natal Indian Congress	Natal
 Indian Mirror
 Jallianwala Bagh
 Journal	Bharat Sramjeebi (1870)
 Journal	DinaBandhu (1880)
 Jugantar
+Kakori Conspiracy Case
+Kakori Robbery
 Kaliparaj
 Khalsa Diwan Society
 King Edward's Hotel
+Kirti Lehar
 Komagata Maru
 Lahore Congress resolution
 Leagues	All India Muslim League	AIML
 Leagues	Home Rule League	Home Rule
+manjari sena
 martial law
 Meerut Conspiracy Case
+monkey armies
 Mountbatten Settlement
-Movement	Akali Movement
+Movement	Akali Movement	Akali
 Movement	Aligarh Movement	Aligarh
 Movement	Arya Samaj
 Movement	Bardoli Satyagraha	Bardoli
@@ -68,49 +87,59 @@ Movement	Boycott Movement	Boycott
 Movement	Brahmo Samaj
 Movement	Champaran
 Movement	civil disobedience
-Movement	Civil Disobedience Movement
+Movement	Civil Disobedience
 Movement	Eka movement	Ekta
-Movement	Indian labour movement
+Movement	Indian labour movement	Indian Labour
 Movement	Kisan Sabha	Kisan
 Movement	no-tax movement	no-tax
-Movement	Oudh Kisan Sabha
-Movement	Paramahansa Mandali
-Movement	Prarthana Samaj
-Movement	Quit India Movement
-Movement	Sarin Sabba
-Movement	Satya Sodhak Samaj
+Movement	Oudh Kisan Sabha	Oudh
+Movement	Paramahansa Mandali	Paramahansa
+Movement	Prarthana Samaj	Prarthana
+Movement	Quit India Movement	Quit India
+Movement	Sarin Sabba	Sarin
+Movement	Satya Sodhak Samaj	Satya Sodhak
 Movement	Solidarity Movement	Solidarity
-Movement	Swadeshi Movement Swadeshi
-Movement	Temple Entry Movement
+Movement	Swadeshi Movement	Swadeshi
+Movement	Temple Entry Movement	Temple Entry
 mutiny of the naval
+Na Samajam
 nai-dhobi band
-Nair Service Society, Na Samajam and Kerala Hindu Sabha
+Nair Service Society
 Nankana tragedy
+National Front
 Neel Darpan
+Nehru Report
 no-changers
+Pact	 Gandhi-Irwin Pact	Gandhi-Irwin
 Pact	Lucknow Pact	Lucknow
 Pact	Poona Pact	Poona
-Person	George Hamilton
-Person	Hugh Rose
-Person	J.B. Grant
-Person	Verney Lovett
+Permanent Zamindari Settlement
 poligars
 pro-changers
+provisional settlement
 Quit India Resolution
 Rebellion	Kols of Chhotanagpur
 Rebellion	Mappila rebellion	of Mappila
 Rebellion	Munda tribesmen
+Red Shirts
 Reform	Montague-Chelmsford
 Revolt	Indigo Revolt	Indigo
 Revolt	Kuka Revolt	Kuka
 Revolt	Pabna Revolt	Pabna
 Revolt	Revolt of 1857	of 1857
 Revolt	RIN Revolt
+Revolutionary Group	Anushilan
+Revolutionary Group	Chittagong
+Revolutionary Group	Yugantar
+Revolutionary Socialist Party
+Round Table Conference
 Royal Commission
 Ryotwari system
 Sabha	Kayasth Sabha	Kayasth
+Sabha	Kerala Hindu Sabha
 Sabha	Kisan sabhas	Kisan
 Sabha	Madras Mahajan Sabha	Madras Mahajan
+Sabha	Naujawan Bharat Sabha
 Sabha	Poona Sarvajanik Sabha	Poona Sarvajanik
 Sabha	Rehnumai Mazdeyasan Sabha	Rehnumai Mazdeyasan
 Sabha	Singh Sabha	Singh
@@ -121,6 +150,7 @@ salt law
 salt tax
 Samiti	Barisal Samiti	Barisal
 Samiti	Swadesh Bandhab Samiti	Swadesh Bandhab
+Secretary of State	Samuel Hoare
 Secretory of State	George Hamilton
 Secretory of State	John Morley
 Session	Banaras Session	Banaras
@@ -130,12 +160,15 @@ Silchs
 Simon Commission
 Swadeshi dacoities
 Swaraj Party
+Temple Entry Bill
 The Ghadar
-tinkathia syste
+The Lost Leader
+tinkathia system
 Treaty	Treaty of Sevres	of Servres
 Ujaliparaj
 Uprising	Chuar
 Uprising	Santhal hool
+vanar senas
 Viceroy	Lord Curzon	Curzon
 Viceroy	Lord Dufferin	Dufferin
 Viceroy	Lord Hardinge	Hardinge

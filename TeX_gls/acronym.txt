@@ -4,8 +4,11 @@ AITUC	All India Trade Union Congress
 CPI	CPI
 GIP	Great Indian Peninsular
 GOI	Government of India
+HRA	Hindustan Republican Association
+ICS	Indian Civil Service
 INA	Indian National Alliance
 INC	Indian National Congress
+IRA	Indian Revolutionary Army
 KPCC	Kerala Provincial Congress Committee
 RIN	Royal Indian Navy
 SGPC	Shiromani Gurdwara Prabhandak Committee

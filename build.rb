@@ -1,8 +1,8 @@
 #!/usr/bin/ruby
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
-# @Last Modified by:   msumsc
-# @Last Modified time: 2018-09-20 13:24:25
+# @Last Modified by:   Sky
+# @Last Modified time: 2018-09-30 01:36:58
 require 'logger'
 require 'colorize'
 
@@ -273,7 +273,9 @@ class GlossaryItems
   end
 
   def getGLSEntries
-    entries = File.open(@file).read.split("\n").compact.uniq
+    $logger.debug "processing #{@file}"
+    entries = File.open(@file).read.split("\n").uniq.compact
+    entries.select!{|a| a.length > 1}
     count = 0
     entries.map!{
       |entry|
