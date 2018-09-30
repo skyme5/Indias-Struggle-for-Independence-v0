@@ -1,7 +1,10 @@
 AICC	All Indian Congress Committee
 AIML	All India Muslim League
+AISPC	All India States People's Conference
 AITUC	All India Trade Union Congress
 CPI	CPI
+CSP	Congress Socialist Party
+FICCI	Federation of Indian Chambers of Commerce and Industry
 GIP	Great Indian Peninsular
 GOI	Government of India
 HRA	Hindustan Republican Association
@@ -15,6 +18,3 @@ RIN	Royal Indian Navy
 SGPC	Shiromani Gurdwara Prabhandak Committee
 TLA	Textile Labour Association
 WPP	Workers' and Peasants' Parties
-CSP	Congress Socialist Party
-AISPC	All India States People's Conference
-FICCI	Federation of Indian Chambers of Commerce and Industry
