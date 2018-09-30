@@ -44,7 +44,8 @@ Communist Party
 Conference	All-India National Conference	All-India National
 Congress	Indian National Congress	National
 Congress	Natal Indian Congress	Natal
-Congress Volunteer Corps
+Congress	Congress Volunteer Corps	Volunteer Corps
+Congress	All-India Kisan Congress	All-India Kisan
 crescendo
 Cunningham circular
 Delhi manifesto
@@ -86,8 +87,6 @@ Movement	Bardoli Satyagraha	Bardoli
 Movement	Boycott Movement	Boycott
 Movement	Brahmo Samaj
 Movement	Champaran
-Movement	civil disobedience
-Movement	Civil Disobedience
 Movement	Eka movement	Ekta
 Movement	Indian labour movement	Indian Labour
 Movement	Kisan Sabha	Kisan
@@ -181,3 +180,73 @@ War	Afghan War	Second Afghan
 War	American Civil War	American
 Yogakshema Sabha
 Yugantar Circular
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sabha	All-India Kisan Sabha
+Sabha	Bihar Provincial Kisan Sabha
+Karshaka Sanghams
+Act	Malabar Tenancy Act	Malabar Tenancy
+All Malabar Karshaka Sangham
+Committee	Kerala Pradesh Congress Committee Kerala Pradesh
+Andhra Provincial Ryots Association
+Andhra Zamin Ryots Association
+Indian Peasants Institute
+Committee	Zamindari Enquiry Committee	Zamindari Enquiry
+Summer Schools of Economics and Politics
+Sabha	Naujawan Bharat Sabha
+Sabha	Kirti Kisan
+Committee	Punjab Kisan Committee
+Lahore Kisan Morcha
+Sabha	Utkal Provincial Kisan Sabha
+Sabha	All India Kisan Sabha
+tebhaga struggle
+Bengal Land Revenue Commission
+Floud Commission
+Sabha	Bengal Provincial Kisan Sabha
+Bill	Bengal Bargadars Temporary Regulation Bill	Bengal Bargadars
+Bill	Bargadars Bill	Bargadars
+Praja mandals
+Western India State Agency
+Sabha	Rajkot Praja Pratinidhi Sabha
+Kathiawad Political Conference
+Kathiawad Rajakiya Parishad
+Gokulashtmi Fair
+Osmania University
+Movement	Arya Samaj Movement	Arya Samaj
+Ittehad ul Muslimin
+Maharashtra Parishad
+Kannada Parishad
+Congress	Hyderabad State Congress	Hyderabad
+Arya Samaj Satyagraha
+Andhra Mahasabha
+Committee of Action
+Join Indian Union Day
+Indian Army
+Bombay plan
+Amrita Bazar Patrika
+Lord Salisbury
+I Ho-Tuan
+Spanish Civil War
+National Herald
+Gujarat Vidyapith
