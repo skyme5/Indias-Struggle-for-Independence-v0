@@ -13,7 +13,7 @@ INA	Indian National Alliance
 INC	Indian National Congress
 IRA	Indian Revolutionary Army
 KPCC	Kerala Provincial Congress Committee
-PCC	Provincial Congress Committee
+PCC 	Provincial Congress Committee
 RIN	Royal Indian Navy
 SGPC	Shiromani Gurdwara Prabhandak Committee
 TLA	Textile Labour Association
