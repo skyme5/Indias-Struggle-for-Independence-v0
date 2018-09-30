@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   Sky
-# @Last Modified time: 2018-09-30 19:46:51
+# @Last Modified time: 2018-09-30 19:55:08
 require 'logger'
 require 'colorize'
 
@@ -44,18 +44,8 @@ class Index
   end
 
   def generateEntries
-    list = File.open(@file).read.split("\n").compact
-    names = []
-    list.each{
-      |person|
-      next if person.length < 2
-      if names.include? person.split("\t").first
-        $logger.warn "PERSON: duplicate entry found for #{person}"
-      else
-        @index << person
-        names << person.split("\t").first
-      end
-    }
+    @index = File.open(@file).read.split("\n").compact.uniq
+    @index.select!{ |a| a.length > 1 }
     @index.map!{
       |entry|
       formatIndexEntry(entry)
@@ -285,10 +275,24 @@ class GlossaryItems
 
   def getGLSEntries
     $logger.debug "GlossaryItems: processing #{@file}"
-    entries = File.open(@file).read.split("\n").uniq.compact
-    entries.select!{|a| a.length > 1}
+    list = File.open(@file).read.split("\n")
+    list.select!{|a| a.length > 1}
+
+    keys = []
+    entries = []
+    list.each{
+      |entry|
+      key = entry.split("\t").first
+      if keys.include? key
+        $logger.warn "GLOSSARY:DUPLIATE #{key}"
+      else
+        entries << entry
+        keys << key
+      end
+    }
+
     count = 0
-    entries.map!{
+    entries.map{
       |entry|
       count = count + 1
       fields = entry.split("\t")
