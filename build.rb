@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   Sky
-# @Last Modified time: 2018-09-30 19:55:08
+# @Last Modified time: 2018-09-30 20:08:07
 require 'logger'
 require 'colorize'
 
@@ -423,14 +423,14 @@ puts "Committing changes...".colorize(:yellow)
 system("git add .")
 system("git commit -m \"commit before build\"")
 puts "Compiling Tex (1)".colorize(:yellow)
-system("pdflatex.exe -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
 puts "ReBuilding index".colorize(:yellow)
 system("makeindex.exe \"main\".tex")
 puts "ReBuilding glossaries".colorize(:yellow)
 system("makeglossaries.exe \"main\"")
 puts "Compiling Tex (2)".colorize(:yellow)
-system("pdflatex.exe -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
 puts "Compiling Tex (3)".colorize(:yellow)
-system("pdflatex.exe -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
 puts "Preview PDF".colorize(:yellow)
 system("SumatraPDF.exe main.pdf")
