@@ -85,7 +85,7 @@ Movement	Arya Samaj
 Movement	Bardoli Satyagraha	Bardoli
 Movement	Boycott Movement	Boycott
 Movement	Brahmo Samaj
-Movement	Champaran
+Movement	Champaran Movement	Champaran
 Movement	Eka movement	Ekta
 Movement	Indian labour movement	Indian Labour
 Movement	Kisan Sabha	Kisan
