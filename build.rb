@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   Sky
-# @Last Modified time: 2018-09-30 20:08:07
+# @Last Modified time: 2018-10-01 23:33:46
 require 'logger'
 require 'colorize'
 
@@ -140,7 +140,7 @@ class FindDates
     out = File.open(path, "w+")
     out.puts @dates.sort
     out.close
-    puts "#{@dates.length} Dates saved to #{path}"
+    $logger.debug "#{@dates.length} Dates saved to #{path}"
   end
 
   def getChapterFiles
@@ -157,7 +157,7 @@ class FindDates
   end
 
   def findDatesInChapters
-    puts "No Chapter files found at #{@dir}" if @files.length == 0
+    $logger.info "No Chapter files found at #{@dir}" if @files.length == 0
     dates = []
     for file in @files
       body = File.open(file).read
@@ -166,7 +166,7 @@ class FindDates
         dates << m[0]
       }
     end
-    puts "#{@files.length} Chapter files processed" if @files.length > 0
+    $logger.info "#{@files.length} Chapter files processed" if @files.length > 0
     dates.uniq.sort
   end
 end
@@ -218,7 +218,7 @@ class GlossaryItems
     out = File.open(path, "w+")
     out.puts glsData
     out.close
-    puts "Glossary #{@type}.tex saved to #{path}"
+    $logger.info "Glossary #{@type}.tex saved to #{path}"
   end
 
   def getEntries
@@ -398,7 +398,7 @@ if options.empty?
   gls.save()
 else
   if options.include? "-init" or options.include? "-i"
-    puts "Setting up tex project ..."
+    $logger.info "Setting up tex project ..."
     system("robocopy C:\\Code\\ruby\\textool\\init . /E > nul")
     system("git init > nul")
   end
@@ -410,7 +410,7 @@ else
   if options.include? "-find" or options.include? "-f"
     regexp = Regexp.compile(options.select{|a| a.include? "/"}[0][1..-2], Regexp::MULTILINE | Regexp::IGNORECASE)
     tex = options.select{|a| a.include? ".tex"}
-    puts "Searching with #{regexp} in #{tex}"
+    $logger.info "Searching with #{regexp} in #{tex}"
     tex.each{
       |file|
       puts File.open(File.join(File.expand_path("."), file)).read.scan(regexp)
@@ -419,18 +419,18 @@ else
 end
 
 
-puts "Committing changes...".colorize(:yellow)
+$logger.info "Committing changes...".colorize(:yellow)
 system("git add .")
 system("git commit -m \"commit before build\"")
-puts "Compiling Tex (1)".colorize(:yellow)
-system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
-puts "ReBuilding index".colorize(:yellow)
+$logger.info "Compiling Tex (1)".colorize(:yellow)
+system("pdflatex.exe -time-statistics -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+$logger.info "ReBuilding index".colorize(:yellow)
 system("makeindex.exe \"main\".tex")
-puts "ReBuilding glossaries".colorize(:yellow)
+$logger.info "ReBuilding glossaries".colorize(:yellow)
 system("makeglossaries.exe \"main\"")
-puts "Compiling Tex (2)".colorize(:yellow)
-system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
-puts "Compiling Tex (3)".colorize(:yellow)
-system("pdflatex.exe -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
-puts "Preview PDF".colorize(:yellow)
+$logger.info "Compiling Tex (2)".colorize(:yellow)
+system("pdflatex.exe -time-statistics -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+$logger.info "Compiling Tex (3)".colorize(:yellow)
+system("pdflatex.exe -time-statistics -c-style-errors -recorder -quiet -synctex=1 -interaction=nonstopmode \"main\".tex")
+$logger.info "Preview PDF".colorize(:yellow)
 system("SumatraPDF.exe main.pdf")

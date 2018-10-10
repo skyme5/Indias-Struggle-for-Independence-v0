@@ -15,6 +15,7 @@ IRA	Indian Revolutionary Army
 KPCC	Kerala Provincial Congress Committee
 PCC 	Provincial Congress Committee
 RIN	Royal Indian Navy
+RSS	Rashtriya Swayamsevak Sangh
 SGPC	Shiromani Gurdwara Prabhandak Committee
 TLA	Textile Labour Association
 WPP	Workers' and Peasants' Parties

@@ -1,3 +1,18 @@
+Movement	Ahrar movement
+Pact	Lucknow Pact	Lucknow
+Movement	Sangathan
+Movement	Shuddhi
+Movement	Tanzeem
+Movement	Tabligh
+Jinnah's Fourteen Points	14 Points
+Jamait-ul-Ulama-i-Hind
+Khudai Khidmatgars
+Krishak Praja Party
+
+
+
+
+
 Abhinav Bharat
 Act	Anti-Corn Law	Anti-Corn
 Act	Bengal Tenancy Act	Bengal Tenancy
