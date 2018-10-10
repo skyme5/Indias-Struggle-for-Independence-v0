@@ -2,7 +2,7 @@
 # @Author: msumsc
 # @Date:   2018-08-27 15:06:35
 # @Last Modified by:   Sky
-# @Last Modified time: 2018-10-01 23:33:46
+# @Last Modified time: 2018-10-10 22:32:12
 require 'logger'
 require 'colorize'
 
@@ -298,7 +298,7 @@ class GlossaryItems
       fields = entry.split("\t")
 
       find = fields[0]
-      content = fields.length == 2 ? parseIfDate(fields[1]) : "not edited"
+      content = fields.length == 2 ? parseIfDate(fields[1]) : ""
 
       substitute = fields[0].split("#").length == 2
       find = fields[0].split("#").first if fields[0].split("#").length == 2
