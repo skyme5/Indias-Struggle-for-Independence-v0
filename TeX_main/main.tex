@@ -1,0 +1,140 @@
+% !TeX TS-program = pdflatex
+% !TeX spellcheck = en_US
+\documentclass[12pt, openright, final]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{imakeidx}
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=black, bookmarksopen=true, backref=true]{hyperref}
+\usepackage[nomain, acronym, toc]{glossaries}
+\usepackage{acronym}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[left=.7in, top=1in, right=.7in, bottom=1in]{geometry}
+\usepackage{anyfontsize}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{hyphenat}
+\usepackage{mathptmx}
+\usepackage{textcomp}
+\usepackage{lettrine}
+\usepackage{verse}
+\usepackage[explicit]{titlesec}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+
+\newcommand{\multicolinterrupt}[1]{% Stuff to span both rows
+\end{multicols}
+#1
+\begin{multicols}{2}
+}
+
+% for headers
+\addtopsmarks{headings}{}{
+	\createmark{chapter}{both}{nonumber}{}{}
+}
+\pagestyle{headings}
+
+
+% code for refrence
+%
+\usepackage{endnotes,etoolbox}
+\renewcommand{\notesname}{References}
+% end note marker = superscripted number in brackets
+\renewcommand\makeenmark{\textsuperscript{[\theenmark]}}
+% in the endnotes, we change it without `\textsuperscript`, adding a space
+\patchcmd{\theendnotes}
+{\makeatletter}
+{\makeatletter\renewcommand\makeenmark{[\theenmark] }}
+{}{}
+
+% code for text formatting
+%
+\emergencystretch=38pt
+\hyphenpenalty=3000
+% \parindent=0pt
+
+% code for custom commands
+%
+\newcommand{\qs}[1]{\textquoteleft \textit{#1}\textquoteright}
+\newcommand{\qd}[1]{\textquotedblleft \textit{#1}\textquotedblright}
+\newcommand{\clb}[0]{\color{blue}}
+\newcommand{\colord}[1]{{\color{blue}#1}}
+
+% for table of content
+%
+% \usepackage[tocflat]{tocstyle}
+% \usetocstyle{standard}
+
+% code for index
+%
+\makeindex[
+    columns=1,
+    title=Index,
+    options= -s TeX_style/index.ist,
+    intoc
+]
+
+
+% code for glossaries
+%
+\newglossary[default.log]{default}{default.in}{default.out}{Terms}
+\newglossary[person.log]{person}{person.in}{person.out}{Notable Persons}
+\newglossary[date.log]{date}{date.in}{date.out}{Dates}
+
+\makeglossaries
+
+\loadglsentries{TeX_gls/default}
+\loadglsentries{TeX_gls/person}
+\loadglsentries{TeX_gls/date}
+\loadglsentries{TeX_gls/acronym}
+
+\begin{document}
+
+\author{Bipin Chandra}
+\title{India's Struggle for Independence}
+\date{January 2013}
+
+\frontmatter
+
+% custom title page
+\newpage
+\thispagestyle{empty}
+%\setlength{\parindent}{0pt}%
+%\setlength{\parskip}{4pt}%
+\noindent
+{\sffamily\LARGE{
+	\begin{flushleft}
+		BIPIN CHANDRA\\
+		MRIDULA MUKHERJEE\\
+		SUCHETA MAHAJAN\\
+		K.N. PANIKKAR
+	\end{flushleft}
+}\par}
+\vspace{1in}
+{\sffamily\fontsize{50}{60}\selectfont{
+	\begin{flushleft}
+			INDIA'S STRUGGLE FOR INDEPENDENCE 1857--1947
+	\end{flushleft}
+}\par}
+\cleardoublepage
+
+\tableofcontents
+
+\mainmatter
+
+\cleardoublepage
+
+\include{body}
+
+\backmatter
+
+\setglossarystyle{listhypergroup}
+
+\twocolumn
+\printglossary[title=Terms, toctitle=List of Terms, type=default,style=list]
+\printglossary[title=Dates, toctitle=List of Dates, type=date, style=list]
+\onecolumn
+\printglossary[title=Persons, toctitle=List of Persons, type=person, style=listhypergroup]
+\twocolumn
+\printindex
+\end{document}

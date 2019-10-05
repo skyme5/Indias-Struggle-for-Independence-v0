@@ -1,4 +1,4 @@
-A. Colvin	the Lieutenant-Governor of U.P.
+﻿A. Colvin	the Lieutenant-Governor of U.P.
 Shiva Prasad	Raja of Bhinga
 Badruddin Tyabji	presided over the Congress session in 1887
 R.M. Sayani
@@ -21,11 +21,11 @@ Aga Khan
 Mohammed Iqbal	a poet
 Shafaat Ahmad Khan	a historian
 Bhai Parmanand	1933, presiding over the Hindu Mahasabha session
+Madame Blavatsky
 
 
 
-
-A.C. Mazumdar	a political activist
+A.C. Mazumdar   a political activist
 A.K. Gopalan
 A.O. Hume
 A.R. Desai
@@ -36,17 +36,17 @@ Abdul Ghaffar Khan
 Ahmed Din
 Ajit Ray
 Ajit Singh
-Ajoy Ghosh	Left Communist leaders
-Akbar Hydari	Prime Minister
+Ajoy Ghosh  Left Communist leaders
+Akbar Hydari    Prime Minister
 Akshay Kumar Dutt
-Albert Einstein	International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
+Albert Einstein International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
 Ali Musaliar
-Ambalal Sarabhai		did not join Congress by provided financial support
-Ambalal Sarabhai	one of the leading mill owners of the town, was a friend of Gandhiji, and had just saved the Sabarmati Ashram from extinction by a generous donation.
+Ambalal Sarabhai        did not join Congress by provided financial support
+Ambalal Sarabhai    one of the leading mill owners of the town, was a friend of Gandhiji, and had just saved the Sabarmati Ashram from extinction by a generous donation.
 Ambika Charan Mazumdar
 Amles Tripathi
-Amritlal Sheth	Kathiawad Political Conference
-Amritlal Sheth	Rajkot struggle
+Amritlal Sheth  Kathiawad Political Conference
+Amritlal Sheth  Rajkot struggle
 Anand Mohan Bose
 Ananda Charlu
 Ananda Gupta
@@ -55,14 +55,14 @@ Anant Singh
 Ananta Singh
 Anasuya Behn
 and Harnam Singh
-Anil Baran Roy	Swarajist members
+Anil Baran Roy  Swarajist members
 Anil Seal
 Annie Besant
 Antonio Gramsci
 Apurba Kumar Ghose
-Arjun Atmaram Alwe	Illustrator in Bombay textile mill
+Arjun Atmaram Alwe  Illustrator in Bombay textile mill
 Asaf Ali
-Ashfaqulla Khan	were hanged
+Ashfaqulla Khan were hanged
 Ashwini Kumar Dutt
 Asutosh Mukherjea
 Aswinicoomar Banerjea
@@ -77,59 +77,59 @@ B.G. Tilak
 B.M. Malabari
 B.R. Ambedkar
 B.R. Nanda
-Baba Kharak Singh	militant nationalist leaders
+Baba Kharak Singh   militant nationalist leaders
 Baba Ram Singh
 Baba Ramchandra
-Baba Rur Singh	one of the important peasant leaders
-Baba Sohan Singh	one of the important peasant leaders
-Bahadur Shah	see \gls{person:BAHADUR-SHAH-II}
+Baba Rur Singh  one of the important peasant leaders
+Baba Sohan Singh    one of the important peasant leaders
+Bahadur Shah    see \gls{person:BAHADUR-SHAH-II}
 Bahadur Shah II
 Baikatullah
 Baiwantrai Mehta
 Baji Rao II
 Bal Gangadhar Tilak
 Balwant Singh
-Balwantrai Mehta	Rajkot struggle
+Balwantrai Mehta    Rajkot struggle
 Bankim Chandra Chatterjee
 Bankim Mukherji
 Barkatullah
-Basanti Debi	Wife of C.R. Das
+Basanti Debi    Wife of C.R. Das
 Begum Hazrat Mahal
-Bejoy Kumar Sinha	member of HSRA
+Bejoy Kumar Sinha   member of HSRA
 Bejoy Sinha
-Bhagat Singh	member of HSRA
-Bhagat Singh Bilga	one of the important peasant leaders
-Bhagwan Singh	Sikh Priest from Hong Kong
+Bhagat Singh    member of HSRA
+Bhagat Singh Bilga  one of the important peasant leaders
+Bhagwan Singh   Sikh Priest from Hong Kong
 Bhagwan Singh Longowalia
-Bhagwati Charan Vohra	member of HSRA, wrote The Philosophy of Bomb
+Bhagwati Charan Vohra   member of HSRA, wrote The Philosophy of Bomb
 Bhai Parmanand
-Bhaktiba	the wife of Darbar Gopaldas
+Bhaktiba    the wife of Darbar Gopaldas
 Bhibuti Guha
 Bhowani Sen
 Bhulabhai Desai
-Bina Das	in February 1932 fired point blank range at the Governor while receiving her degree at the Convocation
+Bina Das    in February 1932 fired point blank range at the Governor while receiving her degree at the Convocation
 Bipin Chandra Pal
 Birjis Qadir
 Bishambar Nath
 Bisheshwar Prasad
 Brij Kishore
-Brij Rani	related to Hyderabad movement
+Brij Rani   related to Hyderabad movement
 Bruce T. McCully
 C. Rajagopalachari
 C. Sankan Nair
-C. Sankaran Nair	the Congress President
+C. Sankaran Nair    the Congress President
 C.F. Andrews
 C.G. Shah
 C.R. Das
 C.S. Ranga Iyer
-Chandrashekhar Azad	member of HSRA
-Charles Tegart	the hated Police Commissioner of Calcutta
+Chandrashekhar Azad member of HSRA
+Charles Tegart  the hated Police Commissioner of Calcutta
 Charles Wood
 Chidambaram Pillai
 Chimanlal Mehta, Jugatram Dave and Chimanlal Bhatt
 Chimanlal Setalvad
 D.E. Wacha
-D.G. Bindu	Committee of Action in Hyderabad
+D.G. Bindu  Committee of Action in Hyderabad
 Dada Abdullah
 Dadabhai Framji
 Dadabhai Naoroji
@@ -138,7 +138,7 @@ Deo Narayan Pande
 Dewan Chaman Lal
 Dewan Velu Thampi
 Dewan Virawala
-Dharmendra Singhji	son of Lakhajiraj
+Dharmendra Singhji  son of Lakhajiraj
 Din Bandhu Mitra
 Dinshaw Petit
 Diwan Chaman Lall
@@ -150,13 +150,13 @@ Dwarkanath Ganguli
 Dwijendralal Ray
 E.F. Thomas
 E.M. S. Namboodiripad
-E.V. Ramaswami Naicker	led ajatha from Madurai and undeiwent imprisonment
+E.V. Ramaswami Naicker  led ajatha from Madurai and undeiwent imprisonment
 Edward Law
 G. Subramaniya Iyer
-G.D. Birla		did not join Congress by provided financial support
+G.D. Birla      did not join Congress by provided financial support
 G.D. Kumar
 G.K. Gokhale
-G.L. Mehta	he president of FICCI
+G.L. Mehta  he president of FICCI
 G.M. Chitnavis
 G.P. Varma
 G.R. Abhayankar
@@ -166,7 +166,7 @@ Ganesh Ghosh
 Gauri Shankar Misra
 General Smuts
 George Hamilton
-George Lansbury	International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
+George Lansbury International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
 Girija Mukherji
 Gopal Han Deshmukh
 Gopal Krishna Gokhale
@@ -183,40 +183,36 @@ Harish Chandra Mukherji
 Hem Chandra Kar
 Hugh Rose
 Husain Rahim
-Imam Saheb	Gandhiji's comrade of the South African struggle
+Imam Saheb  Gandhiji's comrade of the South African struggle
 Indra Narain Dwivedi
 Indulal Yagnik
-Indulal Yagnik
-Indulal Yagnik
-Indulal Yagnik	leaders of the All India Kisan Sabha
+Indulal Yagnik  leaders of the All India Kisan Sabha
 Ishwarchandra Vidyasagar
 J.A. Gallagher
 J.B. Grant
-J.B. Kripalani	one of Gandhiji's staunchest followers
+J.B. Kripalani  one of Gandhiji's staunchest followers
 J.B. Kriplani
-J.K. Mehta	Secretary, Indian Merchants Chamber
+J.K. Mehta  Secretary, Indian Merchants Chamber
 J.M. Sengupta
 Jagdish Chandra Bose
 Jagir Singh Joga
-Jaidev Kapur	member of HSRA
+Jaidev Kapur    member of HSRA
 Jamalpuram Keshavrao
 James Westland
 Jamnadas Dwarkadas
-Jamnalal Bajaj	fully identified with the movement, went to jails and accepted the hardships
-Jamuna Karjee	led the movement in Saran district
+Jamnalal Bajaj  fully identified with the movement, went to jails and accepted the hardships
+Jamuna Karjee   led the movement in Saran district
 Jatin Das
-Jawaharlal Nehru
 Jawaharlal Nehru
 Jawerchand Meghani
 Jayaprakash Narayan
-Jayaprakash Narayan
-Jethalal Joshi	a Gandhian worker
+Jethalal Joshi  a Gandhian worker
 Jogesh Chandra Chatterjea
 Jogesh Chatterjea
 Jotendra Mohan Tagore
 Jugatram Dave
 Jyotiba Phule
-K. Kelappan	the hero of the Vaikom Satyagraha
+K. Kelappan the hero of the Vaikom Satyagraha
 K. M. Ashraf
 K. Madhavan Nair
 K.F. Nariman
@@ -233,9 +229,9 @@ Kamal Sarkar
 Kanhia Lal Dutt
 Kartar Singh Jhabbar
 Kartar Singh Sarabha
-Karyanand Sharma	left-wing leaders
+Karyanand Sharma    left-wing leaders
 Kasturba
-Kazi Nazrul Islam	a poet
+Kazi Nazrul Islam   a poet
 Kedar Nath
 Keshavji Ganeshji
 Keshub Chandra Sen
@@ -243,7 +239,7 @@ Khan Abdul Gaffar Khan
 Khan Bahadur
 Khan Bahadur Khan
 Khudi Ram Bose
-Khudiram Bose	Review this to Khudi Ram Bose
+Khudiram Bose   Review this to Khudi Ram Bose
 Koot Hoomi Lal Singh
 Krishna Kumar Mitra
 Krishna Menon
@@ -253,13 +249,12 @@ Kunhammed Haji
 Kunverji Mehta
 Kunwar Singh
 Laiji Naranji
-Laiji Naranji
-Lajpat Rai	see \gls{person:LALA-LAJPAT-RAI}
-Lakhajiraj	ruler of Rajkot
+Lajpat Rai  see \gls{person:LALA-LAJPAT-RAI}
+Lakhajiraj  ruler of Rajkot
 Lal Mohan Ghosh
 Lala Har Dayal
 Lala Lajpat Rai
-Lala Shankar Lal	fully identified with the movement, went to jails and accepted the hardships
+Lala Shankar Lal    fully identified with the movement, went to jails and accepted the hardships
 Lech Walesa
 Lewis Namier
 Liaqat Hussain
@@ -286,60 +281,60 @@ Maharaja Ranjit Singh
 Mahatma Gandhi
 Man Singh
 Mangal Pande
-Maniben Patel	the Sardar's daughter
+Maniben Patel   the Sardar's daughter
 Manikial Kothari
-Mansukhlal Mehta	Kathiawad Political Conference
-Mansukhlal Mehta	Rajkot struggle
+Mansukhlal Mehta    Kathiawad Political Conference
+Mansukhlal Mehta    Rajkot struggle
 Mao Ze-Dong
-Master Han Singh	one of the important peasant leaders
+Master Han Singh    one of the important peasant leaders
 Mata Badal Pande
 Maulana Azad
 Maulana Shaukat Ali
 Maulvi Ahmad Shah
-Maurice Gwyer	Chief Justice of India
-Mithuben Petit	a Parsi lady from Bombay
+Maurice Gwyer   Chief Justice of India
+Mithuben Petit  a Parsi lady from Bombay
 Mohammed Barkatullah
 Mohandas Karamchand Gandhi
 Mohanlal Gautam
-Mohinder Singh	the historian of the Akali Movement
+Mohinder Singh  the historian of the Akali Movement
 Moni Singh
 Motilal Ghosh
 Motilal Nehru
 Mukunda Das
 Murshid Quli Khan
 Mussolini
-Muzaffar Ahmed	Left ideologist
+Muzaffar Ahmed  Left ideologist
 N. Kumaran Asan
 N.C. Kelkar
 N.G. Chandravarkar
 N.G. Ranga
-N.G. Ranga	leaders of the All India Kisan Sabha
-N.G. Ranga	president of AIKC
+N.G. Ranga  leaders of the All India Kisan Sabha
+N.G. Ranga  president of AIKC
 N.N. Sen
-N.R. Sarkar	the President of FICCI
+N.R. Sarkar the President of FICCI
 Nana Saheb
 Nandalal Bose
-Narain Das	related to Akali movement
-Narayan Meghajee Lokhanday	DinaBandhu
+Narain Das  related to Akali movement
+Narayan Meghajee Lokhanday  DinaBandhu
 Narayana Guru
 Narendra Dev
 Narhari Parikh
 Nawab Salimullah
-Osman Ali Khan	Nizam of Hyderabad
-P. Ananda Charlu	Congress President
-P. Krishna Pillai	a major Communist leader
-P. Krishna Pillai	the CSP and later Communist leader
+Osman Ali Khan  Nizam of Hyderabad
+P. Ananda Charlu    Congress President
+P. Krishna Pillai   a major Communist leader
+P. Krishna Pillai   the CSP and later Communist leader
 P. Moideen Koya
 P. Sundarayya
-P.C. Joshi	Left Communist leaders
-P.C. Joshi	Left ideologist
+P.C. Joshi  Left Communist leaders
+P.C. Joshi  Left ideologist
 P.C. Ray
-Panchanan Sharma	left-wing leaders
+Panchanan Sharma    left-wing leaders
 Pattabhi Sitaramayya
 Peary Mohan Mukherje
 Percival Spear
 Pherozeshah Mehta
-Phulchand Shah	Rajkot struggle
+Phulchand Shah  Rajkot struggle
 Prabhat Kumar
 Prabhudas Gandhi
 Prafulla Chaki
@@ -352,124 +347,122 @@ R. Palme Dutt
 R. Ramachandra Nedumgadi
 R.C. Dutt
 R.C. Majumdar
-R.D. Bhardwaj	Left Communist leaders
+R.D. Bhardwaj   Left Communist leaders
 R.G. Pradhan
 R.M. Sayani
 Rabindranath Tagore
 Raghubar Dayal Girta
-Rahul Sankritayan	in Annawari
-Rahul Sankritayan	left-wing leaders
-Raj Kumar Shukla	a local man, decided to follow Gandhiji all over the country to persuade him to come to Champaran to investigate the problem.
+Rahul Sankritayan   in Annawari
+Rahul Sankritayan   left-wing leaders
+Raj Kumar Shukla    a local man, decided to follow Gandhiji all over the country to persuade him to come to Champaran to investigate the problem.
 Raja Dig Vijay Singh
 Raja Mahendra Pratap
 Raja Rammohan Roy
 Rajani Kanta Sen
-Rajendra Lahiri	were hanged
+Rajendra Lahiri were hanged
 Rajendra Prasad
 Rajguru
 Ram Chandra
 Ram Manohar Lohia
 Ramachandra Raju
 Ramnath Purl
-Ramprasad Bismil	were hanged
+Ramprasad Bismil    were hanged
 Ramsay MacDonald
 Rani Lakshmibai
 Rash Beha Ghosh
 Rash Behari Bose
 Rash Behari Ghosh
-Ratan Tata	donted Rs.50000 to Gandhiji for movement in Africa.
-Ravi Narayan Reddy
+Ratan Tata  donted Rs.50000 to Gandhiji for movement in Africa.
 Ravi Narayan Reddy
 Ravishankar Maharaj
 Reginald Coupland
 Romain Rolland
-Romain Rolland	International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
+Romain Rolland  International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
 Romesh Chandra Dutt
 Roy Chowdhuri
-Ràshan Singh	were hanged
+Ràshan Singh    were hanged
 S. Gopal
 S. Satyamurthy
 S. Satyamurti
 S. Srinavasa Iyengar
 S.A. Dange
-S.A. Dange	Left ideologist
-S.C. Mitra	Swarajist members
+S.A. Dange  Left ideologist
+S.C. Mitra  Swarajist members
 S.P. Jam
 S.S. Batliwala
 Sachidanand Sinha
 Sachin Sanyal
 Sachindranath Sanyal
-Sahajanand Saraswati	leaders of the All India Kisan Sabha
+Sahajanand Saraswati    leaders of the All India Kisan Sabha
 Saifuddin Kitchlew
 Samar Ganguli
-Samuel Aaron	fully identified with the movement, went to jails and accepted the hardships
+Samuel Aaron    fully identified with the movement, went to jails and accepted the hardships
 Samuel Hoare
-Santi Ghosh	with Suniti Chowdhury shot dead District Magistrate
-Sardar Patel	see \gls{person:SARDAR-VALLABHBHAI-PATEL}
+Santi Ghosh with Suniti Chowdhury shot dead District Magistrate
+Sardar Patel    see \gls{person:SARDAR-VALLABHBHAI-PATEL}
 Sardar Vallabhbhai Patel
-Sarojini Naidu	the first Indian woman to become President of the Congress
-Sasipada Banerjea	a Brahmo Social reformer
-Savarkar
+Sarojini Naidu  the first Indian woman to become President of the Congress
+Sasipada Banerjea   a Brahmo Social reformer
+V.D. Savarkar
 Shankar Rao Deo
 Shankerlal Banker
 Sharda Mehta
 Shardaben Shah
 Shaukat Au
-Shiv Varma	member of HSRA
+Shiv Varma  member of HSRA
 Shyamji Krishna Varma
 Simon Fraser
 Sisir Kumar Ghosh
 Sohan Lal Pathak
 Sohan Singh Bhakna
 Sohan Singh Josh
-Sohan Singh Josh	Left ideologist
+Sohan Singh Josh    Left ideologist
 Sorabjee Shapoorji Bengalee
 Sri Aurobjndo
 Srinivasa Iyengar
 Subhas Bose
-Subhas Chandra Bose	revolutionary terrorists
-Subramania Siva	from Tuticorin, Tamilnadu
-Subramanian Tirumambu	who became famous as the `Singing Sword of Kerala'
+Subhas Chandra Bose revolutionary terrorists
+Subramania Siva from Tuticorin, Tamilnadu
+Subramanian Tirumambu   who became famous as the `Singing Sword of Kerala'
 Sucheta Kripalani
 Sudhin Pramanik
 Sufi Amba Prasad
-Sukhdev	member of HSRA
+Sukhdev member of HSRA
 Sun Yat-Sen
-Sun Yat-Sen	International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
+Sun Yat-Sen International Congress against colonial Oppression and Imperialism held in Brussels in February 1927
 Sunil Sen
-Suniti Chowdhury	with Santi Ghosh shot dead District Magistrate
+Suniti Chowdhury    with Santi Ghosh shot dead District Magistrate
 Surendranath Banerjee
 Surendranath Tagore
-Surya Sen	led Chittagong group
+Surya Sen   led Chittagong group
 Sushil Sen
-Swami Ramanand Tirtha	a Marathi-speaking nationalist who had given up his studies during the Non-Cooperation Movement
-Swami Sahajanand	the militant peasant leader of Bihar
+Swami Ramanand Tirtha   a Marathi-speaking nationalist who had given up his studies during the Non-Cooperation Movement
+Swami Sahajanand    the militant peasant leader of Bihar
 Swami Shraddhaflafld
 Syed Abu Mohammed
+Syed Ahmed  see \gls{person:SYED-AHMED-KHAN}
 Syed Ahmed Khan
-T. Prakasam
-T. Prakasam	the Andhra Congress leader who was the Revenue Minister in the Congress Ministry in Madras Presidency
+T. Prakasam the Andhra Congress leader who was the Revenue Minister in the Congress Ministry in Madras Presidency
 T.K. Madhavan
 T.R. Holmes
 Tantia Tope
 Tara Chand
-Tara Singh	militant nationalist leaders
-Tarak Nath Das	an Indian student, and one of the first leaders of the Indian community in North America to start a paper called ``Free Hindustan''
+Tara Singh  militant nationalist leaders
+Tarak Nath Das  an Indian student, and one of the first leaders of the Indian community in North America to start a paper called ``Free Hindustan''
 Tej Bahadur Sapru
 Teja Singh Swatantar
-Teja Singh Swatantar	one of the important peasant leaders
+Teja Singh Swatantar    one of the important peasant leaders
 Thinguri Singh
 Tolstoy
 Tolstoy Farm
-Tota Narasaiah Naidu	preferred to be beaten unconscious by a fifteen-member police force rather than give up the national flag
+Tota Narasaiah Naidu    preferred to be beaten unconscious by a fifteen-member police force rather than give up the national flag
 U. Gopala Menon
-U.N. Dhebar	Rajkot struggle
+U.N. Dhebar Rajkot struggle
 Umar Shobhani
 V. Chirol
 V.B. Alur
-V.D. Savarkar
 V.N. Mandlik
-Vadilal Lallubhai Mehta	fully identified with the movement, went to jails and accepted the hardships
+Vadilal Lallubhai Mehta fully identified with the movement, went to jails and accepted the hardships
 Vallabhbhai Patel
 Vasudev Balwant Phadke
 Velu Thampi
@@ -478,20 +471,19 @@ Vijayaraghavachariar
 Visalakshi Menon
 Vishnu Ganesh Pingley
 Vithalbhai Patel
-Vithalbhai Patel	a leading Swarajist
+Vithalbhai Patel    a leading Swarajist
 Vivekananda
-Vrajlal Shukia	Rajkot struggle
+Vrajlal Shukia  Rajkot struggle
 W.C. Bannerjee
-Wadhawa Ram	one of the important peasant leaders
-Waichand Hirachand		did not join Congress by provided financial support
+Wadhawa Ram one of the important peasant leaders
+Waichand Hirachand      did not join Congress by provided financial support
 Wang Ming
-Webb Miller	the American journalist
+Webb Miller the American journalist
 William Edwards
-Yadunandan Sharma	left-wing leaders
+Yadunandan Sharma   left-wing leaders
 Yakub Hasan
-Yashoda Ben	related to Hyderabad movement
+Yashoda Ben related to Hyderabad movement
 Yashpal
-Yusuf Meherally
 Yusuf Meherally
 
 

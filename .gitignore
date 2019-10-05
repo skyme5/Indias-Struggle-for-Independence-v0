@@ -4,9 +4,7 @@
 *.alg
 *.aux
 *.bak
-*.bat
 *.bbl
-*.blg
 *.date
 *.default
 *.fls
@@ -20,11 +18,14 @@
 *.in
 *.ind
 *.ist
+*.jpg
 *.log
+*.lot
 *.md5
 *.out
 *.pdf
 *.person
+*.png
 *.synctex
 *.toc
 *.zip
